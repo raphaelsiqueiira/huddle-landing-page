@@ -82,7 +82,7 @@ img {
   transition: all 0.3s;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 800px) {
   body {
     background-image: url(images/bg-mobile.svg);
   }
@@ -97,11 +97,13 @@ img {
     text-align: center;
   }
 
+  .introducao{
+    text-align: center;
+  }
+
   .titulo-introducao {
     font-size: 1.5em;
   }
 
-  .texto-introducao {
-    width: 30ch;
-  }
+
 }
