@@ -82,7 +82,7 @@ img {
   transition: all 0.3s;
 }
 
-@media (max-width: 380px) {
+@media (max-width: 400px) {
   body {
     background-image: url(images/bg-mobile.svg);
   }
